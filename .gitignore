@@ -1,0 +1,5 @@
+dmenu
+dmenu.o
+draw.o
+stest
+stest.o
